@@ -47,7 +47,10 @@ In summary, my background in economics and my extensive experience in backend de
 
 
 
-efwefwwffwf
+
+<br>
+<br>
+<br>
 <br>
 
 ### 🎓 Education 
