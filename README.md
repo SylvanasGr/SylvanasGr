@@ -24,6 +24,19 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" />
+
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+
+<img align="left" alt="Oracle" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" />
+<img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Mongodb" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
+
+
+<img align="left" alt="Promitheus" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" />
+<img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" />
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />
+
 <br />
 
 
