@@ -37,10 +37,6 @@ In summary, my background in economics and my extensive experience in backend de
     <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
     <br>
     <br>
-    <br>
-    <br>
-    <br>
-    <br>
     <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" />
     <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
     <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
