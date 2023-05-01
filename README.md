@@ -38,15 +38,15 @@ In summary, my background in economics and my extensive experience in backend de
     <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
     <br>
     <br>
-    <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" />
-    <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
-    <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
-    <img align="left" alt="Oracle" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" />
-    <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
-    <img align="left" alt="Mongodb" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-    <img align="left" alt="Promitheus" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" />
-    <img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" />
-    <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />
+    <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+    <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+    <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img align="left" alt="Oracle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+    <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img align="left" alt="Mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img align="left" alt="Promitheus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
+    <img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+    <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 </div>
 
 <br>
