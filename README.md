@@ -46,6 +46,10 @@ In summary, my background in economics and my extensive experience in backend de
 
 
 
+
+
+
+
 ### 🎓 Education 
 - Bachelor's Degree: Public Administration and Finance
 - Master's Degree: Computer Science
