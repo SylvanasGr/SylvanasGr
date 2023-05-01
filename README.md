@@ -13,8 +13,7 @@ Programming is not just a job for me; it is a passion that has been a constant s
 In summary, my background in economics and my extensive experience in backend development have prepared me well for a successful career in computer science. My passion and dedication to programming are unparalleled, and I am confident that I can contribute to any project with unwavering commitment to achieving its objectives.
 
 <br>
-<br>
-<br>
+
 
 
 ### 🧰 Languages and Tools
@@ -36,6 +35,12 @@ In summary, my background in economics and my extensive experience in backend de
     <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
     <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" />
     <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
     <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
