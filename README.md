@@ -2,8 +2,6 @@
 
 **`Software Developer`**
 
- <summary><h3>👨‍💻 Konstantinos Kolios Coding Journey</h3></summary>
-
 During my academic pursuits in economics, I developed a strong aptitude for critical thinking and problem-solving, particularly in the realm of financial management and business operations. However, my fervent interest in programming and computer science remained undiminished. Therefore, I pursued a master's degree in computer science to bolster my knowledge and skill set in this rapidly evolving field.
 
 As I progressed through my master's program and gained practical experience working with Oracle systems and microservices architecture, I developed theoretical and practical expertise in backend development. My focus has been on ensuring top-notch performance, uncompromising security, and sound design patterns, with particular emphasis on optimizing complex algorithms. I take pride in my adherence to SOLID principles, which enables me to write scalable and maintainable code.
