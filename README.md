@@ -12,6 +12,9 @@ Programming is not just a job for me; it is a passion that has been a constant s
 
 In summary, my background in economics and my extensive experience in backend development have prepared me well for a successful career in computer science. My passion and dedication to programming are unparalleled, and I am confident that I can contribute to any project with unwavering commitment to achieving its objectives.
 
+<br>
+<br>
+<br>
 
 
 ### 🧰 Languages and Tools
@@ -44,11 +47,6 @@ In summary, my background in economics and my extensive experience in backend de
     <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />
 </div>
 
-
-
-
-
-<br>
 <br>
 <br>
 <br>
@@ -57,11 +55,20 @@ In summary, my background in economics and my extensive experience in backend de
 - Bachelor's Degree: Public Administration and Finance
 - Master's Degree: Computer Science
 
+<br>
+<br>
+<br>
+
+
 ### 💼 Working Experience 
 - **2021 - 2022: Junior Full Stack Software Developer**
   - Developed and maintained a monolithic Angular/Springboot app for the Greek government.
 - **2022 - now: Back End Developer Consultant L2**
   - Developing the backend systems for the state-owned electricity and gas company of Lithuania, covering the entire country, using Spring Cloud and microservices architecture.
+
+<br>
+<br>
+<br>
 
 
 ### 📊 Stats 
