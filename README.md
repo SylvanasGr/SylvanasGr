@@ -51,12 +51,14 @@ In summary, my background in economics and my extensive experience in backend de
 ### 🎓 Education
 
 Bachelor Degree: Public Administration And Finance
+<br>
 Master's Degree: Computer Science
 
 ### 💼 Working Experience
 
 2021 - 2022: Junior Full Stack Software Developer
   Role: Develop and maintain a monolithic Angular/Springboot app for the Greek government.
+  <br>
 2022 - now: Back End Developer Consultant L2
   Role: Develop the backend systems for the state-owned electricity and gas company of Lithuania, covering the entire country, using Spring Cloud and microservices architecture.
 
