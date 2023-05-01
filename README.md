@@ -53,9 +53,9 @@ Master's Degree: Computer Science
 
 ###💼 Working Experience
 2021 - 2022: Junior Full Stack Software Developer
-Role: Developed and maintained a monolithic Angular/Springboot app for the Greek government.
+  Role: Developed and maintained a monolithic Angular/Springboot app for the Greek government.
 2022 - now: Back End Developer Consultant L2
-Role: Developing the backend systems for the state-owned electricity and gas company of Lithuania, covering the entire country, using Spring Cloud and microservices architecture.
+  Role: Developing the backend systems for the state-owned electricity and gas company of Lithuania, covering the entire country, using Spring Cloud and microservices architecture.
 
 ### 📊 Stats
 
