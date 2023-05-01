@@ -2,7 +2,15 @@
 
 **`Software Developer`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[SylvanasGr][youtube]" to more than 400k subscribers.
+ <summary><h3>👨‍💻 Konstantinos Kolios Coding Journey</h3></summary>
+
+During my academic pursuits in economics, I developed a strong aptitude for critical thinking and problem-solving, particularly in the realm of financial management and business operations. However, my fervent interest in programming and computer science remained undiminished. Therefore, I pursued a master's degree in computer science to bolster my knowledge and skill set in this rapidly evolving field.
+
+As I progressed through my master's program and gained practical experience working with Oracle systems and microservices architecture, I developed theoretical and practical expertise in backend development. My focus has been on ensuring top-notch performance, uncompromising security, and sound design patterns, with particular emphasis on optimizing complex algorithms. I take pride in my adherence to SOLID principles, which enables me to write scalable and maintainable code.
+
+Programming is not just a job for me; it is a passion that has been a constant source of inspiration and motivation throughout my academic and professional life. I am deeply committed to keeping my knowledge and skills up-to-date and continually look for opportunities to expand my horizons. I am resolute in my ambition to make a significant impact on the world through my work, and I am eager to contribute my skills and expertise to groundbreaking projects that challenge the status quo.
+
+In summary, my background in economics and my extensive experience in backend development have prepared me well for a successful career in computer science. My passion and dedication to programming are unparalleled, and I am confident that I can contribute to any project with unwavering commitment to achieving its objectives.
 
 
 ### 🧰 Languages and Tools
@@ -51,57 +59,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 
 
-#
-
-<details>
- <summary><h3>👨‍💻 Konstantinos Kolios Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
 
 
- <style>
-/* Apply styles to all headings */
-h1, h2, h3, h4, h5, h6 {
-  font-weight: bold;
-}
 
-/* Style the code blocks */
-pre {
-  background-color: #f4f4f4;
-  padding: 10px;
-  border-radius: 5px;
-  font-size: 0.9em;
-}
-
-/* Style the inline code */
-code {
-  background-color: #f4f4f4;
-  padding: 3px;
-  border-radius: 3px;
-  font-size: 0.9em;
-}
-
-/* Add some margin and padding to paragraphs */
-p {
-  margin-bottom: 10px;
-  line-height: 1.5;
-}
-
-/* Add a background color and some padding to unordered lists */
-ul {
-  background-color: #f4f4f4;
-  padding: 10px;
-  border-radius: 5px;
-}
-
-/* Style the links */
-a {
-  color: #0366d6;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-</style>
 
