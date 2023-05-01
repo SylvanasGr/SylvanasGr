@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
- <summary><h3>👨‍💻 Konstantinos Kolios Coding Journey</h3></summary>
+### 👨‍💻 Konstantinos Kolios Coding Journey
 
 During my academic pursuits in economics, I developed a strong aptitude for critical thinking and problem-solving, particularly in the realm of financial management and business operations. However, my fervent interest in programming and computer science remained undiminished. Therefore, I pursued a master's degree in computer science to bolster my knowledge and skill set in this rapidly evolving field.
 
