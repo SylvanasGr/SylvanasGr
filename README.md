@@ -59,8 +59,6 @@ In summary, my background in economics and my extensive experience in backend de
 
 <br>
 <br>
-<br>
-
 
 ### 💼 Working Experience 
 - **2021 - 2022: Junior Full Stack Software Developer**
@@ -70,8 +68,6 @@ In summary, my background in economics and my extensive experience in backend de
 
 <br>
 <br>
-<br>
-
 
 ### 📊 Stats 
 
