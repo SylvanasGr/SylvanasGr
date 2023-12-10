@@ -69,9 +69,9 @@ In summary, my background in economics and my extensive experience in backend de
 <br>
 <br>
 
-### 📊 Stats 
+[comment] ### 📊 Stats 
 
-![SylvanasGr GitHub stats](https://github-readme-stats.vercel.app/api?username=sylvanasgr&show_icons=true&theme=gruvbox)
+[comment] ![SylvanasGr GitHub stats](https://github-readme-stats.vercel.app/api?username=sylvanasgr&show_icons=true&theme=gruvbox)
 
 
 
